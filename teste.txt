@@ -3,5 +3,3 @@ Alteraçoes no git
 a
 bbbbbbbbbbb
 aaaaaaaa
-dddd
-d
